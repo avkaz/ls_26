@@ -1,0 +1,13 @@
+# Docker
+.dockerignore
+# Python cache
+__pycache__/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+# Environment variables / secrets
+.env
+# Tests & coverage (exclude from prod image)
+tests/
+.pytest_cache/

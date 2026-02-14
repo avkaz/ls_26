@@ -1,0 +1,81 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/artis-brno-zHLktbZ1/sparta-praha-6qA358jH/?mid=2stjBOqB",
+  "saved_at_utc": "20260214_122654",
+  "data": {
+    "is_valid": true,
+    "home_team": "Artis Brno",
+    "away_team": "Sparta Praha",
+    "final_score": "1-2",
+    "went_to_extra_time": false,
+    "score_after_90": "1-2",
+    "score_after_extra_time": null,
+    "possession_home": "25%",
+    "possession_away": "75%",
+    "shots_home": 2,
+    "shots_away": 14,
+    "yellow_cards_home": 1,
+    "yellow_cards_away": 1,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [
+      {
+        "minute": "27",
+        "team": "away",
+        "scorer": "Mercado J.",
+        "assist": "Kuol G.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "41",
+        "team": "home",
+        "scorer": "Adediran Q.",
+        "assist": null,
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "89",
+        "team": "away",
+        "scorer": "Rrahmani A.",
+        "assist": null,
+        "kind": "penalty_goal",
+        "counted": true,
+        "note": "penalta"
+      }
+    ],
+    "cards": [
+      {
+        "minute": null,
+        "team": "home",
+        "player": null,
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": null,
+        "team": "away",
+        "player": null,
+        "card": "yellow",
+        "note": ""
+      }
+    ],
+    "substitutions_home": 3,
+    "substitutions_away": 4,
+    "penalties_awarded_home": 0,
+    "penalties_awarded_away": 1,
+    "penalties_scored_home": 0,
+    "penalties_scored_away": 1,
+    "penalties_missed_home": 0,
+    "penalties_missed_away": 0,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 0,
+    "disallowed_goals": [],
+    "notes": null,
+    "report": "Zápas mezi Artis Brno a Spartou Praha, odehraný 3. prosince 2025, přinesl napínavé utkání s vítězstvím Sparty 2:1. Sparta dominovala ve většině statistických ukazatelů, zejména v držení míče, které dosáhlo 75 %, oproti 25 % pro domácí tým. Sparta také výrazně převyšovala v počtu střel, kdy vyslala 14 střel oproti pouhým 2 střelám Artisu Brno, přičemž na branku šly 4 střely Sparty a pouze 1 střela domácích. \n\nPrvní gól zápasu vstřelil v 27. minutě Mercado J. ze Sparty po přihrávce Kuola G. Domácí tým dokázal vyrovnat v 41. minutě zásluhou Adedirana Q. Zápas se rozhodoval až v závěru, kdy v 89. minutě proměnil Rrahmani A. penaltu, která zajistila Spartě vítězství. \n\nV utkání bylo uděleno po jedné žluté kartě na obou stranách, červené karty nebyly uděleny. Domácí tým provedl 3 střídání, zatímco Sparta využila 4 střídání. Sparta Praha tak přežila pohárové drama v Brně a postoupila dál díky rozhodující penaltě v závěru prvního poločasu."
+  }
+}

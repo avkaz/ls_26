@@ -1,0 +1,111 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/slavia-praha-viXGgnyB/zlin-C09N1Ikd/?mid=OjLGdPUH",
+  "saved_at_utc": "20260214_112037",
+  "data": {
+    "is_valid": true,
+    "home_team": "Zlín",
+    "away_team": "Slavia Praha",
+    "final_score": "0-4",
+    "went_to_extra_time": false,
+    "score_after_90": "0-4",
+    "score_after_extra_time": null,
+    "possession_home": "54%",
+    "possession_away": "46%",
+    "shots_home": 12,
+    "shots_away": 9,
+    "yellow_cards_home": 3,
+    "yellow_cards_away": 2,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [
+      {
+        "minute": "20'",
+        "team": "away",
+        "scorer": "Chytil M.",
+        "assist": "Chaloupek Š.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "77'",
+        "team": "away",
+        "scorer": "Provod L.",
+        "assist": null,
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "79'",
+        "team": "away",
+        "scorer": "Jelínek T.",
+        "assist": "Chorý T.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "90+1'",
+        "team": "away",
+        "scorer": "Sadílek M.",
+        "assist": null,
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      }
+    ],
+    "cards": [
+      {
+        "minute": "2'",
+        "team": "home",
+        "player": "Machalík D.",
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": "37'",
+        "team": "home",
+        "player": "Jelínek T.",
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": "45+3'",
+        "team": "home",
+        "player": "Hashioka D.",
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": "61'",
+        "team": "away",
+        "player": "Fukala M.",
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": "87'",
+        "team": "away",
+        "player": "Koubek M.",
+        "card": "yellow",
+        "note": ""
+      }
+    ],
+    "substitutions_home": 5,
+    "substitutions_away": 5,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 0,
+    "disallowed_goals": [],
+    "notes": null,
+    "report": "Slavia Praha delivered a commanding performance to secure a 4-0 victory over Zlín in the MOL Cup on October 29, 2025, at Stadion Letná. The visitors demonstrated their attacking prowess and defensive solidity throughout the match, ensuring their progression to the quarterfinals with a comprehensive win.\n\nThe match began with Zlín showing early aggression, but it was Slavia who struck first. In the 20th minute, Chytil M. opened the scoring, finishing off a move assisted by Chaloupek Š. Despite Zlín enjoying a slight edge in possession (54% to Slavia's 46%) and registering more total shots (12 to 9), they struggled to convert their opportunities into meaningful threats on goal.\n\nSlavia maintained their composure and control, gradually increasing their dominance as the match progressed. The second half saw the visitors pull away decisively. Provod L. doubled the lead in the 77th minute, capitalizing on Zlín's defensive lapses. Just two minutes later, Jelínek T. made it 3-0, with Chorý T. providing the assist. The rout was completed in stoppage time when Sadílek M. added a fourth, sealing an emphatic win for the Prague side.\n\nDiscipline was tested on both sides, with Zlín picking up three yellow cards and Slavia two. Both teams utilized their full quota of substitutions, but it was Slavia's changes that had the greater impact, keeping the tempo high and the pressure on the hosts.\n\nUltimately, Slavia Praha's clinical finishing and organized defense proved too much for Zlín, who were unable to break through despite their efforts. The result underscores Slavia's ambitions in the cup and highlights their depth and quality as they move confidently into the next round."
+  }
+}

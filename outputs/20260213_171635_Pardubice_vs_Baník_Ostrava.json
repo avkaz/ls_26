@@ -1,0 +1,112 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/banik-ostrava-lI6ddlih/pardubice-Ys4YYBPn/?mid=A7qb92EN",
+  "saved_at_utc": "20260213_171635",
+  "data": {
+    "is_valid": true,
+    "home_team": "Pardubice",
+    "away_team": "Baník Ostrava",
+    "final_score": "3-4",
+    "went_to_extra_time": true,
+    "score_after_90": "3-3",
+    "score_after_extra_time": "3-4",
+    "possession_home": "44%",
+    "possession_away": "56%",
+    "shots_home": 14,
+    "shots_away": 23,
+    "yellow_cards_home": 2,
+    "yellow_cards_away": 2,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [
+      {
+        "minute": "16",
+        "team": "home",
+        "scorer": "Míšek Š.",
+        "assist": "Botos G.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "31",
+        "team": "away",
+        "scorer": "Planka D.",
+        "assist": "Havran M.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "57",
+        "team": "away",
+        "scorer": "Boula J.",
+        "assist": "Jaroň P.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "69",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Boula J.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "83",
+        "team": "home",
+        "scorer": "Šancl F.",
+        "assist": "Vecheta F.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "90+1",
+        "team": "home",
+        "scorer": "Smékal D.",
+        "assist": "Tanko A.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "111",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Kpozo P.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      }
+    ],
+    "cards": [],
+    "substitutions_home": 6,
+    "substitutions_away": 6,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 1,
+    "disallowed_goals": [
+      {
+        "minute": "59",
+        "team": "home",
+        "scorer": "Botos G.",
+        "assist": null,
+        "kind": "disallowed_goal",
+        "counted": false,
+        "note": "ofsajd"
+      }
+    ],
+    "notes": "Match decided in extra time. Several substitutions and a disallowed goal for offside. No penalty shootout.",
+    "report": "Baník Ostrava secured a dramatic 4-3 victory after extra time against Pardubice in a thrilling MOL Cup encounter on November 5, 2025. The match, played at Stadion Arnošta Košťála, saw both teams display attacking intent, with Baník ultimately progressing to the quarterfinals after a pulsating contest.\n\nThe hosts Pardubice struck first in the 16th minute, as Míšek Š. finished off a move assisted by Botos G. Baník responded in the 31st minute through Planka D., who converted a pass from Havran M. to level the score. The first half ended 1-1, setting the stage for a frenetic second period.\n\nBaník took control after the break, with Boula J. netting in the 57th minute, assisted by Jaroň P. The visitors thought they had extended their lead further, but a goal by Botos G. was ruled out for offside in the 59th minute. Baník did make it 3-1 in the 69th minute, as Buchta D. finished from Boula J.'s assist. Pardubice, however, refused to surrender. Šancl F. pulled one back in the 83rd minute, set up by Vecheta F., before Smékal D. dramatically equalized in stoppage time (90+1') after good work from Tanko A., sending the match into extra time.\n\nIn the additional period, both sides made further substitutions in search of a winner. The decisive moment arrived in the 111th minute, when Buchta D. scored his second of the night, this time assisted by Kpozo P., to make it 4-3 for Baník. Despite late pressure from Pardubice, Baník held on to claim a memorable win. Both teams finished with two yellow cards each, and Baník enjoyed a slight edge in possession (56%) and shots (23 to 14). The result marks Baník Ostrava’s first major success under coach Galásek, as they advance to the next round of the cup."
+  }
+}

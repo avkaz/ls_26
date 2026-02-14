@@ -1,0 +1,95 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/hradec-kralove-vFXjbHms/zbrojovka-brno-4d5TT6i5/?mid=zVlZE6pn",
+  "saved_at_utc": "20260214_111117",
+  "data": {
+    "is_valid": true,
+    "home_team": "Zbrojovka Brno",
+    "away_team": "Hradec Králové",
+    "final_score": "0-3",
+    "went_to_extra_time": false,
+    "score_after_90": "0-3",
+    "score_after_extra_time": null,
+    "possession_home": "51%",
+    "possession_away": "49%",
+    "shots_home": 14,
+    "shots_away": 8,
+    "yellow_cards_home": 3,
+    "yellow_cards_away": 1,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [
+      {
+        "minute": "68'",
+        "team": "away",
+        "scorer": "van Buren M.",
+        "assist": "Dancák S.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "73'",
+        "team": "away",
+        "scorer": "van Buren M.",
+        "assist": "Mihálik O.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "89'",
+        "team": "away",
+        "scorer": "van Buren M.",
+        "assist": "Sojka A.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      }
+    ],
+    "cards": [
+      {
+        "minute": "7'",
+        "team": "home",
+        "player": "Mihálik O.",
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": "21'",
+        "team": "home",
+        "player": "Darida V.",
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": "23'",
+        "team": "home",
+        "player": "Blecha F.",
+        "card": "yellow",
+        "note": ""
+      },
+      {
+        "minute": "79'",
+        "team": "away",
+        "player": "Břečka T.",
+        "card": "yellow",
+        "note": ""
+      }
+    ],
+    "substitutions_home": 4,
+    "substitutions_away": 5,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 0,
+    "disallowed_goals": [],
+    "notes": "Several injuries occurred: Vlkanova A. (7'), Darida V. (26'), Čihák F. (65').",
+    "report": "Hradec Králové secured a convincing 3-0 victory over Zbrojovka Brno in the MOL Cup clash held on November 12, 2025, at the ShipEx Arena in Brno. The match began with both sides showing caution, resulting in a goalless first half. Brno enjoyed a slight edge in possession (51%) and registered more shots (14 to Hradec's 8), but both teams managed five shots on target, highlighting the even nature of the contest in the opening stages.\n\nThe second half, however, saw Hradec Králové take control, largely thanks to a clinical performance from striker Mick van Buren. The deadlock was broken in the 68th minute when van Buren finished off a move assisted by Dancák. Just five minutes later, van Buren doubled the lead, this time capitalizing on a pass from Mihálik. Brno, despite making four substitutions in an attempt to change the game's momentum, struggled to create clear chances against a disciplined Hradec defense.\n\nAs Brno pushed forward late in the game, van Buren completed his hat-trick in the 89th minute, converting a pass from Sojka to seal the result and secure Hradec's progression in the cup. The match was not without incident, as both teams suffered injuries, notably to Vlkanova, Darida, and Čihák, which disrupted the flow of play at times. Discipline was also a factor, with Brno picking up three yellow cards to Hradec's one.\n\nUltimately, Hradec Králové's efficiency in front of goal and van Buren's clinical finishing proved decisive, sending them through to the next round and ending Brno's cup run. The result reflected Hradec's ability to capitalize on key moments, while Brno were left to rue missed opportunities and defensive lapses in the second half."
+  }
+}

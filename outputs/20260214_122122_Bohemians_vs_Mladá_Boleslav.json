@@ -1,0 +1,124 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/bohemians-1905-fuXqHnxa/mlada-boleslav-0f7GpAMu/?mid=tSisDpFb",
+  "saved_at_utc": "20260214_122122",
+  "data": {
+    "is_valid": true,
+    "home_team": "Bohemians",
+    "away_team": "Mladá Boleslav",
+    "final_score": "0-1",
+    "went_to_extra_time": true,
+    "score_after_90": "0-0",
+    "score_after_extra_time": "0-0",
+    "possession_home": "51%",
+    "possession_away": "49%",
+    "shots_home": 16,
+    "shots_away": 14,
+    "yellow_cards_home": 1,
+    "yellow_cards_away": 1,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [],
+    "cards": [
+      {
+        "minute": "1",
+        "team": "home",
+        "player": null,
+        "card": "yellow",
+        "note": null
+      },
+      {
+        "minute": "1",
+        "team": "away",
+        "player": null,
+        "card": "yellow",
+        "note": null
+      }
+    ],
+    "substitutions_home": 7,
+    "substitutions_away": 6,
+    "penalties_awarded_home": 5,
+    "penalties_awarded_away": 5,
+    "penalties_scored_home": 4,
+    "penalties_scored_away": 5,
+    "penalties_missed_home": 1,
+    "penalties_missed_away": 0,
+    "has_penalty_shootout": true,
+    "penalty_shootout_score": "4-5",
+    "penalty_shootout_kicks": [
+      {
+        "order": null,
+        "team": "home",
+        "taker": "Klíma J.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "away",
+        "taker": "Čermák A.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "home",
+        "taker": "Zíka J.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "away",
+        "taker": "Kovařík J.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "home",
+        "taker": "Prebsl F.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "away",
+        "taker": "Sinyavskiy V.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "home",
+        "taker": "Ševčík M.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "away",
+        "taker": "Yusuf",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "home",
+        "taker": "Macek R.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": null,
+        "team": "away",
+        "taker": "Hůlka L.",
+        "outcome": "missed",
+        "note": null
+      }
+    ],
+    "disallowed_goals_count": 0,
+    "disallowed_goals": [],
+    "notes": null,
+    "report": "The match between Bohemians and Mladá Boleslav on November 5, 2025, was a tightly contested encounter in the domestic cup competition. The game ended 0-0 after regular time and extra time, with neither side able to break the deadlock despite several chances. Bohemians held a slight edge in possession with 51%, and they also had a marginally higher number of shots, 16 compared to 14 by Mladá Boleslav. Both teams managed 4 shots on target each, indicating a balanced offensive effort.\n\nThe match was disciplined with only one yellow card shown to each team and no red cards issued. Substitutions were actively used, with Bohemians making 7 changes and Mladá Boleslav 6, reflecting tactical adjustments throughout the match.\n\nThe decisive moment came in the penalty shootout, where Mladá Boleslav triumphed 5-4. Both teams were awarded five penalties each, with Mladá Boleslav converting all their attempts except one missed by Hůlka L. Bohemians missed one penalty as well, which ultimately decided the outcome. The shootout was intense, with successful penalties from players like Klíma J., Zíka J., Prebsl F., and Ševčík M. for Bohemians, and Čermák A., Kovařík J., Sinyavskiy V., and Yusuf for Mladá Boleslav.\n\nThis victory sends Mladá Boleslav into the quarterfinals of the domestic cup for the first time in four years, marking a significant achievement for the club. The match showcased strong defensive performances and resilience from both sides, with Mladá Boleslav ultimately prevailing in the nerve-wracking penalty shootout."
+  }
+}

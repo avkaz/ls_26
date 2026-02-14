@@ -1,0 +1,112 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/banik-ostrava-lI6ddlih/pardubice-Ys4YYBPn/?mid=A7qb92EN",
+  "saved_at_utc": "20260214_105637",
+  "data": {
+    "is_valid": true,
+    "home_team": "Pardubice",
+    "away_team": "Baník Ostrava",
+    "final_score": "3-4",
+    "went_to_extra_time": true,
+    "score_after_90": "3-3",
+    "score_after_extra_time": "3-4",
+    "possession_home": "44%",
+    "possession_away": "56%",
+    "shots_home": 14,
+    "shots_away": 23,
+    "yellow_cards_home": 2,
+    "yellow_cards_away": 2,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [
+      {
+        "minute": "16",
+        "team": "home",
+        "scorer": "Míšek Š.",
+        "assist": "Botos G.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "31",
+        "team": "away",
+        "scorer": "Planka D.",
+        "assist": "Havran M.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "57",
+        "team": "away",
+        "scorer": "Boula J.",
+        "assist": "Jaroň P.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "69",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Boula J.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "83",
+        "team": "home",
+        "scorer": "Šancl F.",
+        "assist": "Vecheta F.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "90+1",
+        "team": "home",
+        "scorer": "Smékal D.",
+        "assist": "Tanko A.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "111",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Kpozo P.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      }
+    ],
+    "cards": [],
+    "substitutions_home": 5,
+    "substitutions_away": 5,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 1,
+    "disallowed_goals": [
+      {
+        "minute": "59",
+        "team": "home",
+        "scorer": "Botos G.",
+        "assist": null,
+        "kind": "disallowed_goal",
+        "counted": false,
+        "note": "ofsajd"
+      }
+    ],
+    "notes": "Zápas MOL Cupu, rozhodující gól v prodloužení. Zranění: Buchta D., Havran M. (38').",
+    "report": "Ve strhujícím osmifinále MOL Cupu mezi Pardubicemi a Baníkem Ostrava se diváci dočkali sedmigólové přestřelky, která vyvrcholila až v prodloužení. Baník Ostrava nakonec slaví postup do čtvrtfinále po vítězství 4:3, když rozhodující trefu zaznamenal v 111. minutě Buchta po přihrávce Kpoza.\n\nPardubice vstoupily do utkání aktivně a už v 16. minutě otevřel skóre Míšek po asistenci Botose. Baník však dokázal srovnat ve 31. minutě zásluhou Planky, kterému nahrával Havran. První poločas tak skončil nerozhodně 1:1. Ve druhé půli šli hosté do vedení díky Boulaovi, který skóroval po přihrávce Jaroně. Ostravané navíc zvýšili v 69. minutě, kdy se prosadil Buchta po asistenci Bouly. Pardubice ale nesložily zbraně – nejprve snížil Šancl po přihrávce Vechety a v nastavení základní hrací doby vyrovnal Smékal po akci Tanka.\n\nZápas tak dospěl do prodloužení, kde rozhodl v 111. minutě opět Buchta, tentokrát po spolupráci s Kpozem. Baník si tak odváží postup, přestože Pardubice měly několik šancí a dokonce jim byl v 59. minutě neuznán gól kvůli ofsajdu. Statistiky ukazují převahu Baníku ve střelách (23:14) i držení míče (56 %), ale domácí bojovali až do posledních vteřin. Oba týmy obdržely po dvou žlutých kartách, červené karty nepadly. Zápas byl ozdobou pohárového kola a ukázal sílu Baníku pod novým trenérem Galáskem."
+  }
+}

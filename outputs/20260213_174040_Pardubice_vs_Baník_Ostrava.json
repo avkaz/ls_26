@@ -1,0 +1,112 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/banik-ostrava-lI6ddlih/pardubice-Ys4YYBPn/?mid=A7qb92EN",
+  "saved_at_utc": "20260213_174040",
+  "data": {
+    "is_valid": true,
+    "home_team": "Pardubice",
+    "away_team": "Baník Ostrava",
+    "final_score": "3-4",
+    "went_to_extra_time": true,
+    "score_after_90": "3-3",
+    "score_after_extra_time": "3-4",
+    "possession_home": "44%",
+    "possession_away": "56%",
+    "shots_home": 14,
+    "shots_away": 23,
+    "yellow_cards_home": 2,
+    "yellow_cards_away": 2,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [
+      {
+        "minute": "16",
+        "team": "home",
+        "scorer": "Míšek Š.",
+        "assist": "Botos G.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "31",
+        "team": "away",
+        "scorer": "Planka D.",
+        "assist": "Havran M.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "57",
+        "team": "away",
+        "scorer": "Boula J.",
+        "assist": "Jaroň P.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "69",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Boula J.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "83",
+        "team": "home",
+        "scorer": "Šancl F.",
+        "assist": "Vecheta F.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "90+1",
+        "team": "home",
+        "scorer": "Smékal D.",
+        "assist": "Tanko A.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "111",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Kpozo P.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      }
+    ],
+    "cards": [],
+    "substitutions_home": 5,
+    "substitutions_away": 5,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 1,
+    "disallowed_goals": [
+      {
+        "minute": "59",
+        "team": "home",
+        "scorer": "Botos G.",
+        "assist": null,
+        "kind": "disallowed_goal",
+        "counted": false,
+        "note": "ofsajd"
+      }
+    ],
+    "notes": "Zápas MOL Cupu, osmifinále. Prodloužení rozhodlo o postupu Baníku Ostrava. Zranění: Buchta D., Havran M. (38').",
+    "report": "Ve středu 5. listopadu 2025 se v Pardubicích odehrál dramatický osmifinálový duel MOL Cupu mezi domácími Pardubicemi a Baníkem Ostrava. Zápas nabídl ofenzivní podívanou, sedm branek a rozhodnutí až v prodloužení, kde se radovali hosté z Ostravy po vítězství 4:3.\n\nPardubice začaly aktivněji a už v 16. minutě otevřel skóre Míšek po přihrávce Botose. Baník však dokázal srovnat ve 31. minutě zásluhou Planky, kterému asistoval Havran. První poločas skončil nerozhodně 1:1. Ve druhém dějství se hosté dostali do vedení díky Boulaovi, který skóroval po přihrávce Jaroně. Ostravané navýšili náskok v 69. minutě, kdy se prosadil Buchta po asistenci Bouly. Pardubice ale nesložily zbraně – nejprve snížil Šancl po přihrávce Vechety a v nastavení vyrovnal Smékal po akci Tanka. V 59. minutě byl domácím neuznán gól kvůli ofsajdu.\n\nO postupu rozhodlo až prodloužení. V 111. minutě se podruhé v zápase trefil Buchta, tentokrát po přihrávce Kpoza, a zajistil Baníku postup do čtvrtfinále. Zápas byl vyrovnaný i ve statistikách – Pardubice měly 44 % držení míče a 14 střel, Baník 56 % a 23 střel. Oba týmy obdržely po dvou žlutých kartách. Zápas poznamenalo i zranění Buchty a Havrana ve 38. minutě.\n\nBaník Ostrava tak slaví první úspěch pod trenérem Galáskem a po přestřelce v Pardubicích postupuje do čtvrtfinále poháru."
+  }
+}

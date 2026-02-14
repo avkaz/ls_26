@@ -1,0 +1,159 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/banik-ostrava-lI6ddlih/pardubice-Ys4YYBPn/?mid=A7qb92EN",
+  "saved_at_utc": "20260214_115701",
+  "data": {
+    "is_valid": true,
+    "home_team": "Pardubice",
+    "away_team": "Baník Ostrava",
+    "final_score": "3-4",
+    "went_to_extra_time": true,
+    "score_after_90": "3-3",
+    "score_after_extra_time": "3-4",
+    "possession_home": "44%",
+    "possession_away": "56%",
+    "shots_home": 14,
+    "shots_away": 23,
+    "yellow_cards_home": 2,
+    "yellow_cards_away": 2,
+    "red_cards_home": null,
+    "red_cards_away": null,
+    "goals": [
+      {
+        "minute": "16",
+        "team": "home",
+        "scorer": "Míšek Š.",
+        "assist": "Botos G.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "31",
+        "team": "away",
+        "scorer": "Planka D.",
+        "assist": "Havran M.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "46",
+        "team": "home",
+        "scorer": "Tanko A.",
+        "assist": "Samuel V.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "46",
+        "team": "away",
+        "scorer": "Saarma R.",
+        "assist": "Mahuta R.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "57",
+        "team": "away",
+        "scorer": "Boula J.",
+        "assist": "Jaroň P.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "69",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Boula J.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "83",
+        "team": "home",
+        "scorer": "Šancl F.",
+        "assist": "Vecheta F.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "90+1",
+        "team": "home",
+        "scorer": "Smékal D.",
+        "assist": "Tanko A.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "111",
+        "team": "away",
+        "scorer": "Buchta D.",
+        "assist": "Kpozo P.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      }
+    ],
+    "cards": [
+      {
+        "minute": null,
+        "team": "home",
+        "player": null,
+        "card": "yellow",
+        "note": null
+      },
+      {
+        "minute": null,
+        "team": "home",
+        "player": null,
+        "card": "yellow",
+        "note": null
+      },
+      {
+        "minute": null,
+        "team": "away",
+        "player": null,
+        "card": "yellow",
+        "note": null
+      },
+      {
+        "minute": null,
+        "team": "away",
+        "player": null,
+        "card": "yellow",
+        "note": null
+      }
+    ],
+    "substitutions_home": null,
+    "substitutions_away": null,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 1,
+    "disallowed_goals": [
+      {
+        "minute": "59",
+        "team": "home",
+        "scorer": "Botos G.",
+        "assist": null,
+        "kind": "disallowed_goal",
+        "counted": false,
+        "note": "ofsajd"
+      }
+    ],
+    "notes": null,
+    "report": "Zápas MOL Cupu mezi Pardubicemi a Baníkem Ostrava přinesl napínavou podívanou s konečným výsledkem 3:4 po prodloužení. Pardubice vstřelily první gól v 16. minutě zásluhou Míška po přihrávce Botose, ale Baník rychle odpověděl vyrovnávacím gólem Planky v 31. minutě. Oba týmy pokračovaly v ofenzivní hře, když se skóre po první půli zastavilo na 1:1.\n\nDruhá polovina byla velmi dynamická, hned na začátku se trefili Tanko za Pardubice a Saarma za Baník, čímž se skóre dostalo na 2:2. Baník pak přidal góly Bouly a Buchty, čímž se dostal do vedení 2:4. Pardubice ale neztratily naději a díky gólům Šancla a Smékala vyrovnaly na 3:3 v nastaveném čase.\n\nV prodloužení rozhodl Buchta svým druhým gólem v 111. minutě o vítězství Baníku Ostrava 4:3. Zápas byl velmi vyrovnaný i co se týče držení míče, kdy Baník měl mírnou převahu 56 % oproti 44 % Pardubicím. Baník také dominoval ve střelách, když vyslal 23 střel oproti 14 Pardubicím.\n\nOba týmy obdržely po dvou žlutých kartách, červené karty nebyly uděleny. Zápas byl poznamenán i jedním neuznaným gólem Pardubic kvůli ofsajdu v 59. minutě. Celkově šlo o velmi dramatický a kvalitní zápas, který Baník Ostrava zvládl lépe a postoupil do čtvrtfinále poháru."
+  }
+}

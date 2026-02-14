@@ -1,0 +1,109 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/bohemians-1905-fuXqHnxa/mlada-boleslav-0f7GpAMu/?mid=tSisDpFb",
+  "saved_at_utc": "20260214_114814",
+  "data": {
+    "is_valid": true,
+    "home_team": "Bohemians",
+    "away_team": "Mladá Boleslav",
+    "final_score": "0-1",
+    "went_to_extra_time": true,
+    "score_after_90": "0-0",
+    "score_after_extra_time": "0-0",
+    "possession_home": "51%",
+    "possession_away": "49%",
+    "shots_home": 16,
+    "shots_away": 14,
+    "yellow_cards_home": 1,
+    "yellow_cards_away": 1,
+    "red_cards_home": null,
+    "red_cards_away": null,
+    "goals": [],
+    "cards": [],
+    "substitutions_home": 7,
+    "substitutions_away": 7,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": true,
+    "penalty_shootout_score": "4-5",
+    "penalty_shootout_kicks": [
+      {
+        "order": 1,
+        "team": "home",
+        "taker": "Klíma J.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 1,
+        "team": "away",
+        "taker": "Čermák A.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 2,
+        "team": "home",
+        "taker": "Zíka J.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 2,
+        "team": "away",
+        "taker": "Kovařík J.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 3,
+        "team": "home",
+        "taker": "Prebsl F.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 3,
+        "team": "away",
+        "taker": "Sinyavskiy V.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 4,
+        "team": "home",
+        "taker": "Ševčík M.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 4,
+        "team": "away",
+        "taker": "Yusuf",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 5,
+        "team": "home",
+        "taker": "Macek R.",
+        "outcome": "scored",
+        "note": null
+      },
+      {
+        "order": 5,
+        "team": "away",
+        "taker": "Hůlka L.",
+        "outcome": "missed",
+        "note": null
+      }
+    ],
+    "disallowed_goals_count": 0,
+    "disallowed_goals": [],
+    "notes": "Zápas MOL Cupu, rozhodnutí v penaltovém rozstřelu. Všechny střely na branku: 4-4. Prodloužení bez branek. Počet rohů: 6-7. Žluté karty: 1-1. Počet diváků: 2 685. Rozhodčí: Rouček K.",
+    "report": "Ve středu 5. listopadu 2025 se na stadionu Ďolíček v Praze odehrál napínavý osmifinálový duel MOL Cupu mezi domácími Bohemians a Mladou Boleslaví. Utkání, které sledovalo 2 685 diváků, nabídlo vyrovnaný souboj, v němž oba týmy předvedly disciplinovaný výkon a defenzivní jistotu. \n\nV základní hrací době i po prodloužení skončil zápas bez branek, přestože Bohemians měli mírně navrch v držení míče (51 % ku 49 %) a také v počtu střel (16:14). Oba týmy si však vytvořily pouze čtyři střely na branku, což svědčí o kvalitní práci obou obran i brankářů. K vidění bylo také sedm střídání na obou stranách, což svědčí o snaze trenérů najít vítěznou sestavu. \n\nV průběhu zápasu padla pouze jedna žlutá karta na každé straně, což podtrhuje férovost a korektnost utkání. Ani prodloužení nepřineslo změnu skóre, a tak musel o postupujícím rozhodnout penaltový rozstřel. V něm byli úspěšnější hosté z Mladé Boleslavi, kteří proměnili všech pět svých pokusů, zatímco za Bohemians selhal v páté sérii Hůlka. Penaltový rozstřel tak skončil poměrem 5:4 ve prospěch Mladé Boleslavi.\n\nMladá Boleslav se tak po čtyřech letech raduje z postupu do čtvrtfinále domácího poháru, zatímco Bohemians zůstávají před branami další fáze. Zápas byl ukázkou vyrovnaného fotbalu, kde rozhodovaly detaily a pevné nervy v penaltové loterii."
+  }
+}
