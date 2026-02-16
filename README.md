@@ -1,10 +1,7 @@
 
-**POC:** https://ls-26-17783385924.europe-west1.run.app
- - bude deactivovan 26.02.2026
-
 ## Přístup k implementaci
 
-Během vývoje jsme vyhodnotili tři různé přístupy k generování zpráv o zápasech:
+Během vývoje jsem vyhodnotil tři různé přístupy k generování zpráv o zápasech:
 
 ### Přístup 1: Ruční parsování a textové šablony
 Analýza všech možných informací ze zápasu z Livesportu a naplnění detailní textové šablony extrahovanými daty.
@@ -24,8 +21,6 @@ Implementace AI agenta pomocí GPT modelů od OpenAI k inteligentnímu generová
   - Funguje dobře s GPT-4 i GPT-4o-mini modely
   - Efektivně škáluje se pro produkční použití
 - ✅ **Nevýhody**: Model typu platba za použití (ale přijatelné náklady pro většinu případů)
-
-**Funkční proof-of-concept lze najít v repozitáři, který demonstruje přístup s AI agentem s použitím GPT-4 (kompatibilní také s GPT-4o-mini pro optimalizaci nákladů).**
 
 ## Struktura projektu
 
