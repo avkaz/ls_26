@@ -4,9 +4,7 @@
 # Python cache
 __pycache__/
 .mypy_cache/
-*.py[cod]
-*.pyo
-*.pyd
+
 # Virtual environments
 .venv/
 # Environment variables / secrets
