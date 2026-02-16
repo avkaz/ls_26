@@ -12,6 +12,9 @@ Requirements:
 
 from __future__ import annotations
 
+import os
+import urllib.parse
+
 from loguru import logger
 from playwright.sync_api import Browser, Page, sync_playwright
 
@@ -37,7 +40,33 @@ def fetch_html(url: str, timeout_ms: int = DEFAULT_TIMEOUT_MS) -> str:
 
     try:
         with sync_playwright() as p:
-            browser: Browser = p.chromium.launch(headless=True)
+            env_proxy = os.getenv("PLAYWRIGHT_PROXY")
+            proxy_to_use = env_proxy
+
+            proxy_launch_arg = None
+            if proxy_to_use:
+                # Parse proxy URL into components
+                parsed = urllib.parse.urlparse(proxy_to_use)
+                server = f"{parsed.scheme}://{parsed.hostname}:{parsed.port}"
+                if parsed.username or parsed.password:
+                    proxy_launch_arg = {
+                        "server": server,
+                        "username": urllib.parse.unquote(parsed.username)
+                        if parsed.username
+                        else None,
+                        "password": urllib.parse.unquote(parsed.password)
+                        if parsed.password
+                        else None,
+                    }
+                else:
+                    proxy_launch_arg = {"server": server}
+
+            if proxy_launch_arg:
+                browser: Browser = p.chromium.launch(
+                    headless=True, proxy=proxy_launch_arg
+                )
+            else:
+                browser: Browser = p.chromium.launch(headless=True)
             logger.info("Browser initialized.")
             page: Page = browser.new_page()
 
@@ -47,7 +76,7 @@ def fetch_html(url: str, timeout_ms: int = DEFAULT_TIMEOUT_MS) -> str:
 
             # Small scroll to trigger lazy-loaded content
             page.mouse.wheel(0, 800)
-            page.wait_for_timeout(800)
+            page.wait_for_timeout(3000)
             logger.debug("Page scrolled down.")
 
             html = page.content()

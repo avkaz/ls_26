@@ -2,7 +2,7 @@ from pathlib import Path
 from typing import Final
 
 # Model to use for OpenAI ("gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "gpt-4o-mini", "gpt-4o", "gpt-5-mini", etc.)
-MODEL: Final[str] = "gpt-4.1"
+MODEL: Final[str] = "gpt-4.1-mini"
 
 # Default temperature for generation
 TEMPERATURE: Final[float] = 0.2

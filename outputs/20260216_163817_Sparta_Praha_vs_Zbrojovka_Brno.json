@@ -1,0 +1,75 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/sparta-praha-6qA358jH/zbrojovka-brno-4d5TT6i5/",
+  "saved_at_utc": "20260216_163817",
+  "data": {
+    "is_valid": true,
+    "home_team": "Sparta Praha",
+    "away_team": "Zbrojovka Brno",
+    "final_score": "4-0",
+    "went_to_extra_time": false,
+    "score_after_90": "4-0",
+    "score_after_extra_time": null,
+    "possession_home": "64%",
+    "possession_away": "36%",
+    "shots_home": 12,
+    "shots_away": 2,
+    "yellow_cards_home": null,
+    "yellow_cards_away": null,
+    "red_cards_home": null,
+    "red_cards_away": null,
+    "goals": [
+      {
+        "minute": "40'",
+        "team": "home",
+        "scorer": "Krasniqi E.",
+        "assist": "Laci Q.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "65'",
+        "team": "home",
+        "scorer": "Pešek J.",
+        "assist": "Krasniqi E.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "71'",
+        "team": "home",
+        "scorer": "Daněk K.",
+        "assist": null,
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "80'",
+        "team": "home",
+        "scorer": "Rrahmani A.",
+        "assist": null,
+        "kind": "penalty_goal",
+        "counted": true,
+        "note": "Penalty"
+      }
+    ],
+    "cards": [],
+    "substitutions_home": null,
+    "substitutions_away": null,
+    "penalties_awarded_home": 1,
+    "penalties_awarded_away": 0,
+    "penalties_scored_home": 1,
+    "penalties_scored_away": 0,
+    "penalties_missed_home": 0,
+    "penalties_missed_away": 0,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 0,
+    "disallowed_goals": [],
+    "notes": null,
+    "report": "Sparta Praha delivered a commanding performance on home soil, defeating Zbrojovka Brno 4-0 in their encounter on October 30, 2024, at the epet ARÉNA. The hosts dominated proceedings from the outset, enjoying 64% possession and registering 12 shots, nine of which were on target, compared to Brno’s mere two attempts, none of which troubled the goalkeeper.\n\nThe breakthrough came in the 40th minute when Krasniqi E. found the net, capitalizing on a precise assist from Laci Q. This goal set the tone for Sparta’s relentless second-half display. Shortly after the restart, Sparta continued to press, and their efforts paid off in the 65th minute as Pešek J. doubled the lead, with Krasniqi E. again involved, this time providing the assist.\n\nThe floodgates opened further in the 71st minute when Daněk K. added a third, effectively putting the result beyond doubt. Sparta’s dominance was capped off in the 80th minute when Rrahmani A. converted from the penalty spot, sealing a comprehensive 4-0 victory.\n\nZbrojovka Brno struggled to gain a foothold in the match, unable to create significant chances or test the Sparta defense. The home side’s control of possession and clinical finishing proved decisive, as they maintained pressure throughout and showcased their attacking depth.\n\nThis result underlines Sparta Praha’s quality and ambition, as they not only secured three points but also sent a strong message to their league rivals with a convincing all-round display. Zbrojovka Brno, meanwhile, will need to regroup and address their shortcomings at both ends of the pitch if they are to bounce back in their upcoming fixtures."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/lyon-2akflumR/nice-YagoQJpq/?mid=Ikpmcotn",
+  "saved_at_utc": "20260216_165607",
+  "data": {
+    "is_valid": true,
+    "home_team": "Lyon",
+    "away_team": "Nice",
+    "final_score": "2-0",
+    "went_to_extra_time": false,
+    "score_after_90": "2-0",
+    "score_after_extra_time": null,
+    "possession_home": "57%",
+    "possession_away": "43%",
+    "shots_home": 9,
+    "shots_away": 10,
+    "yellow_cards_home": 3,
+    "yellow_cards_away": 1,
+    "red_cards_home": 0,
+    "red_cards_away": 0,
+    "goals": [
+      {
+        "minute": "45+1",
+        "team": "home",
+        "scorer": "Tolisso C.",
+        "assist": "Šulc P.",
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      },
+      {
+        "minute": "64",
+        "team": "home",
+        "scorer": "Nartey N.",
+        "assist": null,
+        "kind": "goal",
+        "counted": true,
+        "note": ""
+      }
+    ],
+    "cards": [
+      {
+        "minute": "21",
+        "team": "home",
+        "player": "Sanson M.",
+        "card": "yellow",
+        "note": "Handball"
+      },
+      {
+        "minute": "45+4",
+        "team": "home",
+        "player": "Maitland-Niles A.",
+        "card": "yellow",
+        "note": "Foul"
+      },
+      {
+        "minute": "52",
+        "team": "home",
+        "player": "Tessmann T.",
+        "card": "yellow",
+        "note": "Rough play"
+      },
+      {
+        "minute": "87",
+        "team": "away",
+        "player": "Abner Vinicius",
+        "card": "yellow",
+        "note": "Holding"
+      }
+    ],
+    "substitutions_home": null,
+    "substitutions_away": null,
+    "penalties_awarded_home": null,
+    "penalties_awarded_away": null,
+    "penalties_scored_home": null,
+    "penalties_scored_away": null,
+    "penalties_missed_home": null,
+    "penalties_missed_away": null,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": null,
+    "disallowed_goals": [],
+    "notes": null,
+    "report": "In a Ligue 1 clash on February 15, 2026, Lyon secured a 2-0 victory over Nice at the Parc Olympique Lyonnais. Lyon demonstrated control throughout the match, holding 57% possession compared to Nice's 43%. The first half saw Lyon take the lead just before halftime, with Tolisso scoring in the 45+1 minute, assisted by Šulc. Despite Nice's efforts, Lyon doubled their advantage in the 64th minute through Nartey, sealing the win.\n\nBoth teams created opportunities, with Lyon registering 9 shots and Nice 10, but Lyon was more clinical with 2 shots on target to Nice's 3. Lyon also earned 8 corners compared to Nice's 5. The match was competitive and physical, reflected in the disciplinary actions: Lyon received 3 yellow cards, including for handball by Sanson and fouls by Maitland-Niles and Tessmann, while Nice had 1 yellow card for holding by Abner Vinicius.\n\nLyon's defensive resilience and effective attacking transitions were key to their success. The home side's passing accuracy was slightly higher at 89%, helping maintain pressure and control. Nice struggled to break down Lyon's defense despite having a few big chances. The match ended without any red cards or penalties, and no extra time was required.\n\nOverall, Lyon's tactical discipline and timely goals ensured a well-deserved home victory, maintaining their strong form in the league."
+  }
+}
