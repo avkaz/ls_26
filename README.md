@@ -1,6 +1,6 @@
 
 **POC:** https://ls-26-17783385924.europe-west1.run.app
-\nbude deactivovan 26.02.2026
+\n bude deactivovan 26.02.2026
 
 ## Přístup k implementaci
 
