@@ -37,12 +37,12 @@ def fetch_html(url: str, timeout_ms: int = DEFAULT_TIMEOUT_MS) -> str:
 
     try:
         with sync_playwright() as p:
-            browser: Browser = p.chromium.launch(headless=True)
+            browser: Browser = p.chromium.launch(headless=False)
             logger.info("Browser initialized.")
             page: Page = browser.new_page()
 
             page.set_default_timeout(timeout_ms)
-            page.goto(url, wait_until="domcontentloaded")
+            page.goto(url, wait_until="networkidle")
             logger.success("Page loaded successfully!")
 
             # Small scroll to trigger lazy-loaded content

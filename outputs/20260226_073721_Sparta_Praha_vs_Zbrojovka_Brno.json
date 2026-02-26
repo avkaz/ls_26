@@ -1,0 +1,75 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/sparta-praha-6qA358jH/zbrojovka-brno-4d5TT6i5/",
+  "saved_at_utc": "20260226_073721",
+  "data": {
+    "is_valid": true,
+    "home_team": "Sparta Praha",
+    "away_team": "Zbrojovka Brno",
+    "final_score": "4-0",
+    "went_to_extra_time": false,
+    "score_after_90": "4-0",
+    "score_after_extra_time": null,
+    "possession_home": "64%",
+    "possession_away": "36%",
+    "shots_home": 12,
+    "shots_away": 2,
+    "yellow_cards_home": null,
+    "yellow_cards_away": null,
+    "red_cards_home": null,
+    "red_cards_away": null,
+    "goals": [
+      {
+        "minute": "40'",
+        "team": "home",
+        "scorer": "Krasniqi E.",
+        "assist": "Laci Q.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "65'",
+        "team": "home",
+        "scorer": "Pešek J.",
+        "assist": "Krasniqi E.",
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "71'",
+        "team": "home",
+        "scorer": "Daněk K.",
+        "assist": null,
+        "kind": "goal",
+        "counted": true,
+        "note": null
+      },
+      {
+        "minute": "80'",
+        "team": "home",
+        "scorer": "Rrahmani A.",
+        "assist": null,
+        "kind": "penalty_goal",
+        "counted": true,
+        "note": null
+      }
+    ],
+    "cards": [],
+    "substitutions_home": null,
+    "substitutions_away": null,
+    "penalties_awarded_home": 1,
+    "penalties_awarded_away": 0,
+    "penalties_scored_home": 1,
+    "penalties_scored_away": 0,
+    "penalties_missed_home": 0,
+    "penalties_missed_away": 0,
+    "has_penalty_shootout": false,
+    "penalty_shootout_score": null,
+    "penalty_shootout_kicks": [],
+    "disallowed_goals_count": 0,
+    "disallowed_goals": [],
+    "notes": null,
+    "report": "Zápas mezi Spartou Praha a Zbrojovkou Brno skončil jasným vítězstvím domácího týmu 4:0. Sparta dominovala po celý zápas, což dokazuje i držení míče 64 % oproti 36 % pro Brno. Domácí tým měl také výrazně více střel na branku, celkem 12 střel, z toho 9 na branku, zatímco Brno mělo pouze 2 střely a žádnou na branku.\n\nPrvní gól padl v 40. minutě, kdy se prosadil Krasniqi po asistenci Laciho. Ve druhém poločase Sparta pokračovala v dominanci a přidala další tři góly. V 65. minutě skóroval Pešek po přihrávce Krasniqiho, v 71. minutě přidal třetí gól Daněk a v 80. minutě proměnil Rrahmani penaltu na konečných 4:0.\n\nSparta tak potvrdila svou sílu a bez problémů si poradila s brněnskou Zbrojovkou. Brno nedokázalo výrazněji ohrozit domácí obranu a nedostalo se ani k žádnému gólu. Zápas se nehrál v prodloužení a nebyly uděleny žádné červené ani žluté karty, což svědčí o relativně klidném průběhu utkání.\n\nCelkově šlo o jednoznačný výkon Sparty, která si upevnila pozici a potvrdila kvalitu svého týmu v domácím prostředí."
+  }
+}
